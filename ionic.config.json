@@ -1,0 +1,7 @@
+{
+  "name": "ff-transcriber",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
